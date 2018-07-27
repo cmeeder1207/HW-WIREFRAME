@@ -22,10 +22,10 @@ padding: 10px;
 aside{
     float: right;
     width: 25%;
-    margin: 15px;
+    margin: 10px,10px,-10px,10px;
     padding:75px;
     height: 160px;
-    margin-top:10;
+
     text-align: center;
 
 
